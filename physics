@@ -1,0 +1,11 @@
+<head>
+echo "# mat45" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git remote add origin https://github.com/matzamat/mat45.git
+ git push -u origin master
+<head>
+<body>
+Физический смысл одного из уравнений Максвелла   состоит в том, что Магнитные поля создаются током и переменным электрическим полем<br>
+Физический смысл одного из уравнений Максвелла   состоит в том, что Переменное магнитное поле порождает электрическое поле <br>
